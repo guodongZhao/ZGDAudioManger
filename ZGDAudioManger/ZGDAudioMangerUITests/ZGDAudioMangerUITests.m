@@ -3,7 +3,7 @@
 //  ZGDAudioMangerUITests
 //
 //  Created by 赵国栋 on 16/6/6.
-//  Copyright © 2016年 赵国栋. All rights reserved.
+//  Copyright © 2016年 https://github.com/guodongZhao. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

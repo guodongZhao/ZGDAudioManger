@@ -3,7 +3,7 @@
 //  音效播放
 //
 //  Created by 赵国栋 on 16/3/14.
-//  Copyright © 2015年 . All rights reserved.
+//  Copyright © 2015年 https://github.com/guodongZhao All rights reserved.
 //
 
 #import "ZGDAudioManger.h"
