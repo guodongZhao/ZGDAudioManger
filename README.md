@@ -5,8 +5,8 @@
 -------------------------------------------------------------------------
 
 ### `Method--Use`
-       `Attention`：It is recommended to use the singleton object instance is created  
-       `注意`：建议使用单例对象方式创建实例对象
+       Attention：It is recommended to use the singleton object instance is created  
+       注意：建议使用单例对象方式创建实例对象
 
 ####  可实现独立播放音效 也可添加振动
 ```objc
